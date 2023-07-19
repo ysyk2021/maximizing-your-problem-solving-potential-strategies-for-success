@@ -10,9 +10,6 @@ In "Maximizing Your Problem-Solving Potential," readers will learn how to cultiv
 
 No matter what stage of life you're in, this book offers valuable insights and strategies for becoming a more effective problem-solver. Whether you're facing a personal challenge or a complex business problem, the tools and techniques in this book will help you tackle it with confidence and achieve success.
 
-
-
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 

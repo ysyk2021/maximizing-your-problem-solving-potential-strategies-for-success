@@ -27,4 +27,3 @@ Furthermore, cultivating a growth mindset and embracing curiosity will fuel your
 Lastly, practice makes perfect. The more you engage in problem-solving exercises and real-life scenarios, the more refined your skills will become. Embrace opportunities for growth and actively seek out challenges that push you outside your comfort zone.
 
 By implementing the strategies outlined in this book and committing to continuous improvement, you will unlock your full problem-solving potential and pave the way for success in various aspects of your life.
-> "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
