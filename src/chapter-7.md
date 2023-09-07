@@ -1,5 +1,3 @@
-Chapter 7: Conclusion
-=====================
 
 Recap of Key Points
 -------------------

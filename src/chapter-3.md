@@ -1,5 +1,3 @@
-Chapter 3: Strategies for Effective Problem-Solving
-===================================================
 
 Effective problem-solving requires a systematic approach that involves defining the problem, identifying its root causes, generating and evaluating potential solutions, implementing the solution(s), and evaluating their effectiveness. In this chapter, we will explore strategies for each of these steps.
 

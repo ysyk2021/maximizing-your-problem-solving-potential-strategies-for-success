@@ -1,5 +1,3 @@
-Chapter 4: Specialized Techniques for Problem-Solving
-=====================================================
 
 Problem-solving is a complex process that requires a range of skills and techniques. In this chapter, we will explore three specialized techniques for problem-solving: design thinking, Six Sigma and Lean methodologies, and root cause analysis.
 

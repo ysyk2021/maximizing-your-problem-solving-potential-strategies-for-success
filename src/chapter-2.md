@@ -1,5 +1,3 @@
-Chapter 2: Developing a Problem-Solving Mindset
-===============================================
 
 Developing a problem-solving mindset is essential for effectively solving complex problems. It involves embracing curiosity and creativity, overcoming fear and resistance, and cultivating resilience and persistence in the face of challenges and setbacks. In this chapter, we will explore strategies for developing a problem-solving mindset.
 

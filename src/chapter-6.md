@@ -1,5 +1,3 @@
-Chapter 6: Measuring Success in Problem-Solving
-===============================================
 
 Measuring success in problem-solving is essential for evaluating the effectiveness of strategies and approaches and continuously improving outcomes. In this chapter, we will explore metrics and key performance indicators (KPIs) for problem-solving, analyzing and interpreting data, and continuously improving problem-solving approaches.
 
