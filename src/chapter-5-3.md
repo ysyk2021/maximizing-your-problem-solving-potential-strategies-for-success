@@ -1,5 +1,4 @@
-Chapter: Applying Problem-Solving in Scientific and Technical Fields
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the application of problem-solving in scientific and technical fields. These domains often involve complex challenges that require analytical thinking, systematic approaches, and innovative solutions. We will discuss the unique aspects of problem-solving in scientific and technical contexts and provide strategies for maximizing problem-solving potential in these fields.
 

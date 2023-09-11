@@ -1,5 +1,4 @@
-Chapter: Overcoming Fear and Resistance to Problem-Solving
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common fear and resistance individuals may experience when approaching problem-solving. We will discuss the detrimental effects of fear and resistance on problem-solving potential and provide strategies for overcoming them. By addressing these obstacles, individuals can unlock their problem-solving capabilities and achieve success.
 

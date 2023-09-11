@@ -1,5 +1,4 @@
-Chapter: Embracing Curiosity and Creativity in Problem-Solving
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of embracing curiosity and creativity in problem-solving. Curiosity fuels our desire to explore, learn, and understand, while creativity allows us to generate innovative ideas and solutions. By cultivating these attributes, individuals can enhance their problem-solving potential and approach challenges with a fresh perspective.
 

@@ -1,5 +1,4 @@
-Chapter: Design Thinking for Creative Problem Solving
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of design thinking and its application in creative problem-solving. Design thinking is an innovative approach that emphasizes empathy, collaboration, and experimentation to generate effective solutions. By incorporating design thinking principles into problem-solving processes, individuals can unlock their creative potential and tackle complex challenges with fresh perspectives.
 
